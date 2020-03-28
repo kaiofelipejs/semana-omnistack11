@@ -1,38 +1,38 @@
 # Semana OmniStack 11.0
 
-## Anotações
+## Anotações Backend
 
-Métodos HTTP
+### Métodos HTTP
 
 - GET: Buscar/listar info no backend
 - POST: Criar uma info no backend
 - PUT: alterar uma info no backend
 - DELETE: deletar uma info no backend
 
-Tipos de parâmetros
+### Tipos de parâmetros
 
 - Query Params: parametros nomeados enviados na rota após o simbolo de "?" (Filtros, paginação)
 - Route Params: parametros utilizados para identificar recursos
 - Request Body: Corpo da requisição utilizado para criar ou alterar recursos
 
-Banco de dados
+### Banco de dados
 
 - SQL: MySQL, SQLite, PostgreSQL, Oracle, Microsoft SQL Server, etc.
 - NoSQL: MongoDB, CouchDB, DynamoDB, etc.
 
-Modos de usar:
+#### Modos de usar:
 
 - Driver: SELECT \* FROM users
 - Query Builder: table('users).select('\*').where()
 
-Nossa aplicação:
+### Nossa aplicação:
 
-Entidades:
+##### Entidades:
 
 - ONG
 - Caso (Incident)
 
-Funcionalidades:
+##### Funcionalidades:
 
 - Login
 - Logout
@@ -42,3 +42,7 @@ Funcionalidades:
 - Listar casos esepecíficos de uma ONG
 - Listar todos os casos
 - Entrar em contato com a ONG
+
+## Anotações Frontend
+
+- Passo a passo react: joga HTML em tela > Javascript entra em ação e preenche a div root com resto.
