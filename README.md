@@ -42,7 +42,3 @@
 - Listar casos esepecíficos de uma ONG
 - Listar todos os casos
 - Entrar em contato com a ONG
-
-## Anotações Frontend
-
-- Passo a passo react: joga HTML em tela > Javascript entra em ação e preenche a div root com resto.
