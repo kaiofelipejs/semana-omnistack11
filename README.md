@@ -61,3 +61,4 @@
 ### Testes de integração
 
 - Vão testar os fluxos inteiros de uma funcionalidade/rota.
+- Precisamos configurar um banco direcionado para testes.
