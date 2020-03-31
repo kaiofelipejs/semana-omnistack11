@@ -42,3 +42,22 @@
 - Listar casos esepecíficos de uma ONG
 - Listar todos os casos
 - Entrar em contato com a ONG
+
+## Testes
+
+### Por que?
+
+- Garantir que independete da quantidade de arquivos ou tamanho do app, tudo esteja funcionando como deveria.
+
+### TDD (Test-Driven Development)
+
+- Criar os testes antes de desenvolver a funcionalidade.
+- Bem resumido: O teste funciona como um guia/mapa para a funcionalidade nesse caso. Primeiro faz as validações e ele mostra o que ainda falta. Quando finalizar a funcionalidade, os testes passarão.
+
+### Testes unitários
+
+- Testa um pedaço da app de forma bem isolada. Não vai bater em outras ferramentas (Banco de dados, APIs externas...). Ele acontece dentro da nossa app.
+
+### Testes de integração
+
+- Vão testar os fluxos inteiros de uma funcionalidade/rota.
