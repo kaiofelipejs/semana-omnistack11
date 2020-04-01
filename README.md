@@ -62,3 +62,14 @@
 
 - Vão testar os fluxos inteiros de uma funcionalidade/rota.
 - Precisamos configurar um banco direcionado para testes.
+
+## Deploy
+
+### Backend
+
+- Para coisas mais simples/testes: Heroku por conta do plano free (tem vídeo no canal sobre)
+- Para aplicações pequenas: Digital Ocean por ser barato (tem vídeo no canal sobre)
+
+### Frontend
+
+- Netlify: é focado em frontend. Basicamente conecta com o repo no github e faz tudo sozinho.
