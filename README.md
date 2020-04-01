@@ -1,6 +1,6 @@
 # Semana OmniStack 11.0
 
-## Anotações Backend
+## Anotações
 
 ### Métodos HTTP
 
